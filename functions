@@ -1,0 +1,6 @@
+def return_the_other(num):
+    if num == 5:
+        print("7")
+    elif num==7:
+        print("5")
+return_the_other(5)
